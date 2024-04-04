@@ -11,7 +11,7 @@ user
 ● Make payment for the order
 ● View the status of all orders
 
-![Untitled](Shopping%20App%209fa92f07969e4c0b8565c18a3540cd12/Untitled.png)
+![Er Diagram](er.png)
 
 ---
 
